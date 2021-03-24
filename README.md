@@ -8,3 +8,4 @@ In this project, we have performed the following using R:
 - Exploratory Data Analysis
 - Data Visualization
 - Hypothesis testing to check if the mean between sales of North America and Japan are equal
+- Performed k-means clustering algorithm on the top 100 video games sold to compare and classify the data
